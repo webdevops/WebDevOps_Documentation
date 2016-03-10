@@ -1,2 +1,2 @@
-# documentation
-WebDevOps documentation (work in progress)
+# WebDevOps.io Documentation
+Documentation (work in progress)
