@@ -23,6 +23,9 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
+html_sidebars = {
+    '**':  ['globaltoc.html'],
+}
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
 
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -56,7 +59,7 @@ source_parsers = {
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'content'
 
 # General information about the project.
 project = u'WebDevOps Documentation'

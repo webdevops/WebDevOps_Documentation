@@ -3,18 +3,29 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to WebDevOps's documentation!
-===================================================
+:orphan: true
 
-Contents:
+========
+Overview
+========
+
+| Welcome to the WebDevOps documentation.
+| Here you can find the current documentation for our projects.
+| Please keep in mind that this Documentation is work in progress but we are happy about every contribution!
+| This Documentation is versioned in GitHub and built with ReadTheDocs.
+| Every change will be automaticaly update our Documentation if merged.
+|
+|
 
 .. toctree::
    :maxdepth: 2
 
+   content/introduction
+   content/vagrantDockerVm
+   ...
 
-
-Indices and tables
-==================
+Indices and tables (to be removed)
+==================================
 
 * :ref:`genindex`
 * :ref:`modindex`
