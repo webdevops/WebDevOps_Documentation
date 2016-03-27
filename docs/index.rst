@@ -26,7 +26,8 @@ Navigation trough Documentations
 | The Versions are aligned with the current tags of the GitHub Repository and start with the first version released with this documentation.
 | The latest version of the documenatation will correspond to the current master (or actively developed branch).
 |
-.. image:: ../images/wiki_logo_openalea.png
+
+.. image:: resources/images/rtd-version.png
 
 ========
 Overview
