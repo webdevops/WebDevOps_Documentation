@@ -41,10 +41,11 @@ Overview
 .. toctree::
    :caption: Project Documentations
 
-   Vagrant Docker VM <http://webdevops-documentation.readthedocs.org/projects/vagrant-docker-vm/en/latest/>
-   PHP Docker Boilerplate <http://webdevops-documentation.readthedocs.org/projects/php-docker-boilerplate/en/latest/>
-   TYPO3 Docker Boilerplate <http://webdevops-documentation.readthedocs.org/projects/typo3-docker-boilerplate/en/latest/>
-   Samson Deployment <http://webdevops-documentation.readthedocs.org/projects/samson-deployment/en/latest/>
+   Vagrant Docker VM <http://webdevops-documentation.readthedocs.io/projects/vagrant-docker-vm/en/latest/>
+   PHP Docker Boilerplate <http://webdevops-documentation.readthedocs.io/projects/php-docker-boilerplate/en/latest/>
+   TYPO3 Docker Boilerplate <http://webdevops-documentation.readthedocs.io/projects/typo3-docker-boilerplate/en/latest/>
+   Samson Deployment <http://webdevops-documentation.readthedocs.io/projects/samson-deployment/en/latest/>
+   Dockerfile <http://dockerfile.readthedocs.io/en/latest/>
 
 
 
